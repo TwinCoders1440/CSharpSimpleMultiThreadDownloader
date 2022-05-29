@@ -1,0 +1,6 @@
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\bin\Release\AZBDManagerV2.exe.config
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\bin\Release\AZBDManagerV2.exe
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\bin\Release\AZBDManagerV2.pdb
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Release\AZBDManagerV2.csprojResolveAssemblyReference.cache
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Release\AZBDManagerV2.exe
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Release\AZBDManagerV2.pdb

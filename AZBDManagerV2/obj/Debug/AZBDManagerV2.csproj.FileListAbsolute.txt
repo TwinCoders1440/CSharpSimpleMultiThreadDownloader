@@ -1,0 +1,14 @@
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\bin\Debug\AZBDManagerV2.exe.config
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Debug\AZBDManagerV2.csprojResolveAssemblyReference.cache
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\bin\Debug\AZBDManagerV2.exe
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\bin\Debug\AZBDManagerV2.pdb
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Debug\AZBDManagerV2.exe
+D:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Debug\AZBDManagerV2.pdb
+J:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\bin\Debug\AZBDManagerV2.exe.config
+J:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\bin\Debug\AZBDManagerV2.exe
+J:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\bin\Debug\AZBDManagerV2.pdb
+J:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Debug\AZBDManagerV2.csproj.AssemblyReference.cache
+J:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Debug\AZBDManagerV2.csproj.SuggestedBindingRedirects.cache
+J:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Debug\AZBDManagerV2.csproj.CoreCompileInputs.cache
+J:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Debug\AZBDManagerV2.exe
+J:\Documents\Programming\C#\programs\AZBDManagerV2\AZBDManagerV2\obj\Debug\AZBDManagerV2.pdb
